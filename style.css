@@ -6,7 +6,7 @@
 }
 #main{
     display: flex;
- height: 900px;
+ height: 700px;
   
     justify-content: center;
      background-color: coral;
@@ -21,7 +21,7 @@
 
 .right img{
 
-margin-top: 99px;
+margin-top: 97px;
 margin-right: 150px;
 }
 

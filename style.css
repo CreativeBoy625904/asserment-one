@@ -257,6 +257,9 @@ padding: 50px 0;}
 
 .hp{
     margin-left: 200px;
+    box-shadow: rgba(6, 24, 44, 0.4) 0px 0px 0px 2px, rgba(6, 24, 44, 0.65) 0px 4px 6px -1px, rgba(255, 255, 255, 0.08) 0px 1px 0px inset;
+    padding: 15px 20px;
+    width: 400px;
  
 }
 
@@ -266,9 +269,11 @@ padding: 50px 0;}
 .dn{
     display: flex;
     font-size: 30px;
-    background-color:rgb(245, 127, 209);
+    background-color:rgb(160, 158, 159);
     width:112px;
     margin-top: 170px;
     margin-left: 1700px;
+box-shadow: rgba(240, 46, 170, 0.4) 5px 5px, rgba(240, 46, 170, 0.3) 10px 10px, rgba(240, 46, 170, 0.2) 15px 15px, rgba(240, 46, 170, 0.1) 20px 20px, rgba(240, 46, 170, 0.05) 25px 25px;
+    padding: 7px 8px;
 }
 

@@ -204,8 +204,9 @@ text-align: center;}
     align-items: center;
     text-align: center;
     justify-content: center;
-    padding-top: 200px;
-    ma
+    padding: 100px;
+    margin:  40px 0 ;
+    
    
     background-size: cover;
 }
@@ -217,3 +218,57 @@ text-align: center;}
 #ab span{
     color: azure;
 }
+
+
+.mq marquee{ margin: 100px;
+    font-family: cursive;
+    font-size: 60px;
+    color: darkcyan;
+    transition: 7s all ease;
+    border: none;
+    padding-bottom: 400px;
+}
+
+.mq span{
+    font-family: cursive;
+    font-size: 60px;
+    margin-left: 300px;
+    color: rgb(91, 194, 194);
+    transition: 8s all ease;
+    border: none;
+}
+
+.mq marquee:hover{
+color: crimson;
+    transition: 7s all ease;
+    cursor: pointer;
+}
+
+.mq span:hover{
+    color: rgb(18, 18, 207);
+    transition: 8s all ease;
+}
+#all{
+    background-image: linear-gradient(to right, rgba(238, 238, 95, 0.644), rgba(25, 86, 90, 0.568)),url(./image/images\ \(3\).jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+padding: 50px 0;}
+
+
+.hp{
+    margin-left: 200px;
+ 
+}
+
+.ls{
+    margin-left: 200px;
+}
+.dn{
+    display: flex;
+    font-size: 30px;
+    background-color:rgb(245, 127, 209);
+    width:112px;
+    margin-top: 170px;
+    margin-left: 1700px;
+}
+
